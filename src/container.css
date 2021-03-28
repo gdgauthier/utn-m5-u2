@@ -1,5 +1,6 @@
 body {
   margin: .5%;
+  font-family: 'Courier New', monospace;
 }
 .container {
   display: flex;
